@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{background-image: url(../../images/gd-dk.jpg);}
+
+.top{
+    width: 1280px;
+    height: 100px ;
+    margin: 0 auto;
+    background: #8C512D;
+    color:rgba(237,202,131) ;
+}
+.content{width: 1280px;height: auto;;margin: auto;color: #8C512D;background:linear-gradient(
+    90deg, rgba(240,240,240,1) 0%,  rgba(255,255,255,1)20%, rgba(240,240,240,1) 100%);}
+.content div{float: left;}
+.content1{width: 250px;height: auto; }
+.content1 li{list-style: none;padding: 10px 30px;font-size: 20px;border-top:1px solid #8C512D ;
+    background: linear-gradient(
+    90deg, rgba(237,202,131,1) 0%, rgba(247,227,174,1) 50%, rgba(237,202,131,1) 100%);}
+.content1 a{text-decoration: none;color: #8C512D;}
+.content2{width: 1030px ;background:#fff;background:linear-gradient(
+    90deg, rgba(240,240,240,1) 0%,  rgba(255,255,255,1)20%, rgba(240,240,240,1) 100%);}
+.content2-1{width: 1000px;margin-left: 15px;margin-top: 15px;margin-bottom: 15px;background: #fff;}
+
+/*=====Quan ly danh muc sp them====*/
+.themdanhmuc{
+    width: 500px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 5%;
+    text-align: center;
+    
+}
+.themdanhmuc table{height: 10px;}
+.danhmuc{
+    margin: auto;
+    height: 100px;
+    font-size: 20px;
+}
+.danhmuc input{
+    height: 22px;
+    font-size: 20px;
+}
+.themdanhmuc input{
+    margin-top: 10px;
+    height: 25px;
+    font-size: 18px;
+    color: #8C512D;
+}
+/*===== Quan ly danh muc sp liet ke====*/
+.lietke{
+    width: 940px;
+    margin-top: 10px;
+    padding: 0 30px;
+}
+.lietke-1{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.lietke-1 a{
+    text-decoration: none;
+}
+
+/*=======Quan ly danh muc sp sua===== */
+.SUA{
+    padding: 0 50px;
+    margin-top: 10px;
+    height: 300px;
+}
+.sua{
+    font-size: 20px;
+    margin: auto;
+    height: 30%;
+}
+.sua input{
+    font-size: 18px;
+    color: #8C512D;
+}
+/*====== quan ly thuong hieu=======*/
+.themdanhmuc-th{
+    width: 30%;
+    float: left;
+    margin-top: 0px;
+    margin-left: 5%;
+    height: 180px;
+}
+/*=======QUan ly san pham======*/
+.themsanpham-1{
+    margin: auto;
+}
+.themsanpham-1 tr{
+   font-size: 20px;
+   width: 100px;
+
+}
+.themsanpham-1 input{
+    width: 99.6%;
+    font-size: 18px;
+}
+.xuly a{
+    text-decoration: none;
+    color: black;
+}
+.xuly a:hover{
+    color: red;
+}
+/* .qltensp b{
+    width: 100px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+} */
+.clear{
+    clear: both;
+}

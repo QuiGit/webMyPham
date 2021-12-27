@@ -1,0 +1,31 @@
+*{margin: 0;padding-left: 0;}
+.dkdn_top{
+    width: 1349px;
+    height: 90px;
+    background: linear-gradient(
+    90deg, rgba(237,202,131,1) 0%, rgba(247,227,174,1) 50%, rgba(237,202,131,1) 100%);
+    font-size: 25px;
+    padding: 20px 100px;
+}
+.dkdn_top a{text-decoration: none;color: #8C512D;font-size: 35px;}
+.dkdn_top td{padding: 0 5px ;}
+
+.dkdn_content{width: 1349px;height: 600px;padding: 30px 0;
+   
+}
+
+.content{width: 450px;height: auto;background: #F8F8F8;margin-left: 800px; border-radius: 5px;}
+.content h1{ padding: 20px 0px; text-align: center;color:#383838;font-weight: 100;font-size: 28px;}
+.content table{margin: auto;width: 300px;margin-top: 20px;}
+
+.content input{height: 40px;margin-top:10px;width: 350px; padding: 0 10px;
+    color: #808080;border:1px solid #C0C0C0;border-radius: 3px;}
+.dkdn{text-align: center;}
+.dkdn td input{width: 200px;background: linear-gradient(
+    90deg, rgba(237,202,131,1) 0%, rgba(247,227,174,1) 50%, rgba(237,202,131,1) 100%);
+    color: #8C512D;border: 0;font-size: 16px;}
+.dangnhap{text-align: center;}
+.dangnhap a{text-decoration: none;}
+.dangnhap table{margin-top: 10px;margin-bottom: 20px;}
+.dangnhap p{margin-right: -50px;}
+.dangnhap td a{margin-left: -50px;color: red;}
